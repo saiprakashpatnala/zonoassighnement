@@ -1,0 +1,27 @@
+.products-list {
+  padding-left: 0px;
+  list-style-type: none;
+  width: 47%;
+}
+.heading {
+  font-family: 'Roboto';
+  font-size: 42px;
+}
+.image-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.product-name {
+  font-size: 23px;
+  font-family: 'Roboto';
+}
+.price {
+  font-size: 18px;
+  font-family: 'Roboto';
+}
+.products-and-cart-container {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}

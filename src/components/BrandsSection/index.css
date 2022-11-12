@@ -1,0 +1,11 @@
+.brands-list {
+  padding-left: 0px;
+  list-style-type: none;
+}
+.brands-container {
+  padding: 20px;
+}
+.brands-heading {
+  font-family: 'Roboto';
+  font-size: 42px;
+}
